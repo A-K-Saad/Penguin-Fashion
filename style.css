@@ -10,6 +10,14 @@
 h1, h2, h3, h4, h5, h6{
     font-family: 'Bebas Neue', cursive;
 }
+header{
+    background-image: url(images/bg-2-removebg-preview.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+main{
+    background: url(images/bg-2.png);
+}
 .service-single img{
     width: 75px;
 }
